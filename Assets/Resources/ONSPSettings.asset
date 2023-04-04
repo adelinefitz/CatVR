@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4b78a5a53dfb11e44a50b8b1d30c8047, type: 3}
-  m_Name: OctoSettings
+  m_Script: {fileID: 11500000, guid: ad074644ff568a14187a3690cfbd7534, type: 3}
+  m_Name: ONSPSettings
   m_EditorClassIdentifier: 
-  SettingsApplied: 1
+  voiceLimit: 64
